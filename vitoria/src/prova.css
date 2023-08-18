@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+    color: burlywood;
+}
+
+
+ul>li, h2{
+    display: inline-block;
+    margin-left: 450px;
+    margin-top: 12px;
+}
+
+header{
+    background-color: rgb(12, 12, 78);
+    margin-left: -800px;
+    margin-top: -120px;
+    width: 2500px;
+    height: 80px;
+}
+
+footer{ 
+    background-color: rgb(12, 12, 78);
+    padding: 0px;
+    margin-left: -800px;
+    margin-top: 700px;
+    height: 100px;
+    width: 2500px;
+    margin-bottom: -100px;
+}
